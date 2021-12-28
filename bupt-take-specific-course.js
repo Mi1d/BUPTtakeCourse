@@ -6,7 +6,7 @@ var courses = [
     //'3D打印创新实践（双创）',
 ];
 //抢课时间间隔，单位为ms，抢课50ms, 捡漏300ms
-var interval = 300;
+var interval = 48;
 //禁止改动
 var targets = [];
 
